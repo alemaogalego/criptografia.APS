@@ -1,6 +1,6 @@
 # Tabela de Cifra Aleatória
 
-Este projeto implementa um sistema de criptografia baseado em uma tabela de substituição aleatória de caracteres ASCII. O código permite criptografar e descriptografar mensagens utilizando coordenadas da tabela gerada aleatoriamente.
+Este projeto implementa um sistema de criptografia baseado em uma tabela de substituição aleatória de caracteres ASCII para Tralho semestral de Análise e Projeto de Sistemas. O código permite criptografar e descriptografar mensagens utilizando coordenadas da tabela gerada aleatoriamente.
 
 ## Como funciona
 
@@ -46,5 +46,5 @@ Aqui está o seu arquivo decriptado: Maca e banana!
 - A tabela precisa ser mantida para descriptografar corretamente.
 
 ## Autor
-Este código foi criado para fins educacionais e demonstração de conceitos básicos de criptografia baseada em tabelas de substituição.
+Este código foi criado para fins educacionais e demonstração de conceitos básicos de criptografia baseada em tabelas de substituição para Tralho semestral de Análise e Projeto de Sistemas Desenvolvido por Lucas César, Guilherme Henrique e Pedro Palmeira.
 
